@@ -4,11 +4,11 @@
   <table align='center'>
     <row>
       <td>
-       <img height='150' src='https://github-readme-stats.vercel.app/api?username=IzabelaSoares&show_icons=true&theme=dark'>
+       <img height='172' src='https://github-readme-stats.vercel.app/api?username=izabelasoares&show_icons=true&theme=dark'>
       </td>
       <td>
         <!-- Card -->
-        <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaSoares&layout=compact&theme=dark'>
+        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=izabelasoares&layout=compact&theme=dark'>
       </td>
     </row>
   </table>
