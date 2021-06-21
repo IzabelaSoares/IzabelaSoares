@@ -1,18 +1,11 @@
 ## Oiii! Eu sou a Iza! 👩‍💻 
   
-<div style="display: inline_block">   
-  <table align='center'>
-    <row>
-      <td>
-       <img height='172' src='https://github-readme-stats.vercel.app/api?username=izabelasoares&show_icons=true&theme=dark'>
-      </td>
-      <td>
-        <!-- Card -->
-        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=izabelasoares&layout=compact&theme=dark'>
-      </td>
-    </row>
-  </table>
-<div> 
+<div style="display: inline_block">
+  <a href="https://github.com/izabelasoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabelasoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelasoares&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 
 <div align= "center"><br>
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
